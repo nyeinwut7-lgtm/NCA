@@ -7,7 +7,7 @@ TELEGRAM_HASH = "9f5cee92c1878b2d9c10c84a5eedbf2e"
 TG_PROXY = {}
 USER_SESSION_STRING = ""
 CMD_SUFFIX = ""
-AUTHORIZED_CHATS = ""
+AUTHORIZED_CHATS = "-1002958586639"
 SUDO_USERS = ""
 DATABASE_URL = "mongodb+srv://nyeinchanaung75299_db_user:nyeinchanaung492246@cluster0.zpqazfv.mongodb.net/?appName=Cluster0"
 DATABASE_NAME = "mltb"
